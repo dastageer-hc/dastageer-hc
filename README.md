@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dastageer-hc&label=Profile%20views&color=0e75b6&style=flat" alt="dastageer-hc" /> </p>
 
-- 👨‍💻 My Portfolio [dastageer.in](dastageer.in)
+
+- 👨‍💻 My Portfolio <a href="https://dastageer.in" target="blank">dastageer.in"</a>
 
 - 💬 Ask me about **JavaScript/TS, Angular, RxJS, NgRx, React, Redux Scss, css,**
 
